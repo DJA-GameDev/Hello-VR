@@ -6446,7 +6446,7 @@ MonoBehaviour:
   m_OnDeactivate:
     m_PersistentCalls:
       m_Calls: []
-  m_AttachTransform: {fileID: 0}
+  m_AttachTransform: {fileID: 771541462}
   m_SecondaryAttachTransform: {fileID: 0}
   m_UseDynamicAttach: 0
   m_MatchAttachPosition: 1
@@ -7441,13 +7441,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 771541461}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.0359731, y: -0.0544683, z: 0.024615081, w: 0.99756366}
-  m_LocalPosition: {x: -0.0379982, y: 0.028148055, z: 0.024124146}
+  m_LocalRotation: {x: 0.0020924958, y: 0.00094243314, z: 0.028795965, w: 0.9995827}
+  m_LocalPosition: {x: -0.03, y: 0.028, z: 0.045}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 686768381}
-  m_LocalEulerAnglesHint: {x: 4.27, y: -6.154, z: 2.597}
+  m_LocalEulerAnglesHint: {x: 0.237, y: 0.115, z: 3.3}
 --- !u!4 &780411841 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 83813662494641431, guid: 9438c296ceb21414eb7c99ade94d8938,
