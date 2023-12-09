@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 3394049245977518704}
   - component: {fileID: 4729820776577686806}
   - component: {fileID: 4100268355304365718}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Baretta
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -160,7 +160,7 @@ MonoBehaviour:
   m_InteractionLayers:
     m_Bits: 1
   m_DistanceCalculationMode: 1
-  m_SelectMode: 0
+  m_SelectMode: 1
   m_FocusMode: 1
   m_CustomReticle: {fileID: 0}
   m_AllowGazeInteraction: 0
@@ -441,7 +441,7 @@ GameObject:
   - component: {fileID: 778049406461468924}
   - component: {fileID: 7574605942940254424}
   - component: {fileID: 7168994202926862308}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Baretta_top
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -545,7 +545,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1428719062845682853}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: AttachPoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -560,13 +560,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 4355755875214994440}
   serializedVersion: 2
-  m_LocalRotation: {x: 0, y: 0.7071068, z: -0, w: -0.7071068}
-  m_LocalPosition: {x: 0, y: 0, z: -0.025}
+  m_LocalRotation: {x: 0.06041237, y: 0.7276894, z: 0.018268617, w: -0.6829969}
+  m_LocalPosition: {x: -0.03400266, y: 0.029000044, z: -0.0409994}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 2266784260032975250}
-  m_LocalEulerAnglesHint: {x: 0, y: 270, z: 0}
+  m_LocalEulerAnglesHint: {x: -6.264, y: 266.172, z: 3.632}
 --- !u!1 &4971481121330819495
 GameObject:
   m_ObjectHideFlags: 0
@@ -578,7 +578,7 @@ GameObject:
   - component: {fileID: 6186737350471452698}
   - component: {fileID: 3674384820691798233}
   - component: {fileID: 1759691503305930218}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Clip
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -661,7 +661,7 @@ GameObject:
   - component: {fileID: 3083682049606541860}
   - component: {fileID: 8797833704947978057}
   - component: {fileID: 2365630576076641304}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Trigger
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -742,7 +742,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1684421645291822312}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: RaypointOrigin
   m_TagString: Untagged
   m_Icon: {fileID: 0}
