@@ -1765,7 +1765,11 @@ PrefabInstance:
     - target: {fileID: 1002331984717630476, guid: 9438c296ceb21414eb7c99ade94d8938,
         type: 3}
       propertyPath: m_LocalPosition.z
+<<<<<<< HEAD
+      value: 0.67
+=======
       value: 0.7
+>>>>>>> 41c25d0f0f017df477a32c6a1ef0122422064d69
       objectReference: {fileID: 0}
     - target: {fileID: 3995429319261798148, guid: 9438c296ceb21414eb7c99ade94d8938,
         type: 3}
@@ -6003,6 +6007,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Food04_Apple
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: a4189b7494acb4a3190302c1f66c155a, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: a4189b7494acb4a3190302c1f66c155a, type: 3}
       propertyPath: m_LocalPosition.x
       value: 2.63
@@ -6345,6 +6353,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Mace_07
+      objectReference: {fileID: 0}
+    - target: {fileID: -927199367670048503, guid: c0f90501319c943878fe1dc6d7dfae5b,
+        type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -9947,7 +9960,11 @@ Transform:
   m_GameObject: {fileID: 928450916}
   serializedVersion: 2
   m_LocalRotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
+<<<<<<< HEAD
+  m_LocalPosition: {x: -0.116, y: 0.71, z: -0.323}
+=======
   m_LocalPosition: {x: -0.063, y: 0.484, z: -0.525}
+>>>>>>> 41c25d0f0f017df477a32c6a1ef0122422064d69
   m_LocalScale: {x: 0.23304556, y: 0.23304556, z: 0.23304556}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -9972,7 +9989,7 @@ SphereCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Radius: 0.5
+  m_Radius: 0.3
   m_Center: {x: 0, y: 0, z: 0}
 --- !u!23 &928450919
 MeshRenderer:
@@ -24094,6 +24111,10 @@ PrefabInstance:
     - target: {fileID: 100000, guid: 13b9fc3b39c244d4486a608d82c951fd, type: 3}
       propertyPath: m_Name
       value: Crown01
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 13b9fc3b39c244d4486a608d82c951fd, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 13b9fc3b39c244d4486a608d82c951fd, type: 3}
       propertyPath: m_LocalPosition.x
